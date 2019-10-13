@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-family: Helvetica;
+}
+
+body, footer{
+	background-color: #F6F7FB !important;
+	padding-top: 100px;
+}
+
+.bg-purple {
+	background-color: #7C4B83;
+}
+
+.btn-purple{	
+	background-color: #7C4B83 !important;
+	color: white !important;
+}
+
+.btn-purple:hover {	
+	background-color: white !important;
+	color: #7C4B83 !important;
+}
