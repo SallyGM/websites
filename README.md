@@ -1,2 +1,2 @@
-# websites
-It contains websites that I build in the past years.
+# website
+Website that I developed during my BTEC Level 3 in IT.
